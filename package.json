@@ -1,0 +1,16 @@
+{
+  "name": "migrate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.30.2",
+    "xml2js": "^0.4.19"
+  }
+}
